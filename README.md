@@ -13,7 +13,7 @@
 	+ We use cloud technologies to work with our cheats. All your settings will be saved in the cloud and reliably protected
 
 
-#### Technologies used:
+### Technologies used:
 ![Packagist PHP Version Support (custom server)](https://img.shields.io/packagist/php-v/symfony/symfony?color=red&label=Php&server=https%3A%2F%2Fpackagist.org&style=for-the-badge)
 ![Package Control](https://img.shields.io/packagecontrol/dd/GitGutter?color=blue&label=DOWNLOADS&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/espadrine?style=for-the-badge)
