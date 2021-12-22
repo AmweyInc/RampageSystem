@@ -1,2 +1,2 @@
 # RampageSystem
-![logo](https://psv4.userapi.com/c532036/u201826664/docs/d31/cad9b54f4d92/photo_2021-10-20_01-24-31.jpg?extra=5Aygw-ks1Zjnan9md5IntyfCQqMK9p14KtHbm5dNKZTHQS1ENarR-balNe2BImohfZxDqx3ugNOqBMvMaTeaSoW3f9lXe21lWEdEy58bOjDMleA-vzlWMHdppApHR_1_3kolNQqfovPK49lgutdt4UVI5A,'kaif')
+![logo](https://i.imgur.com/sSnLKxi.jpg,'kaif')
